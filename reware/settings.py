@@ -34,7 +34,7 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "https://nanda-athaillah-rewareui.pws
 PRODUCTION = os.getenv('PRODUCTION', 'False').lower() == 'true'
 #a
 CSRF_TRUSTED_ORIGINS = []
-
+#adadw
 
 # Application definition
 
